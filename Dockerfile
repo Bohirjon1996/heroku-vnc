@@ -9,6 +9,7 @@ RUN set -ex; \
     && apt-get install -y --no-install-recommends \
         dbus-x11 \
         nautilus \
+	telegram \
         gedit \
         expect \
         sudo \
